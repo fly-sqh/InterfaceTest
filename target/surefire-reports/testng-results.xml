@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4784" started-at="2020-04-30T14:54:05Z" finished-at="2020-04-30T14:54:10Z">
+    <groups>
+    </groups>
+    <test name="register" duration-ms="2228" started-at="2020-04-30T14:54:05Z" finished-at="2020-04-30T14:54:07Z">
+      <class name="Cases.Login">
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="1236" started-at="2020-04-30T14:54:06Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"${username}","password":"XdD2w74W"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="78" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"","password":"${password}"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="47" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"${username}","password":""}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="63" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"","password":""}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="62" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"^^#!1","password":"${password}"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="63" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"${username}","password":"_()*^%#!"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="Login(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.Login@6fadae5d]" name="Login" duration-ms="62" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"username":"qihua.shen@feibeluga.com","password":"${password}"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Cases.Login -->
+    </test> <!-- register -->
+    <test name="AddOtherCharge" duration-ms="2525" started-at="2020-04-30T14:54:07Z" finished-at="2020-04-30T14:54:10Z">
+      <class name="Cases.AddOtherCharge">
+        <test-method status="PASS" signature="OtherCharge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.AddOtherCharge@2ed94a8b]" name="OtherCharge" duration-ms="936" started-at="2020-04-30T14:54:07Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"codeId":"3","dueAgent":"false","amount":"40","alId":"1",
+"stationId":"2","startDate":"2020-04-27","endDate":"2020-05-02","unit":"4"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and stationid=2 and duetypeshow='carrire' and startDate='2020-04-27' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and stationid=2 and duetypeshow='carrie' and startDate='2020-04-27' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtherCharge -->
+        <test-method status="PASS" signature="OtherCharge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.AddOtherCharge@2ed94a8b]" name="OtherCharge" duration-ms="933" started-at="2020-04-30T14:54:08Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"codeId":"3","dueAgent":"true","amount":"40","alId":"1",
+"stationId":"2","startDate":"2020-04-27","endDate":"2020-05-02","unit":"4"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and stationid=2 and duetypeshow='agent' and startDate='2020-04-27' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and stationid=2 and duetypeshow='agent' and startDate='2020-04-27' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtherCharge -->
+        <test-method status="PASS" signature="OtherCharge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.AddOtherCharge@2ed94a8b]" name="OtherCharge" duration-ms="297" started-at="2020-04-30T14:54:09Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"codeId":"3","dueAgent":"true","amount":"40","alId":"1",
+"stationId":"2","startDate":"","endDate":"2020-05-02","unit":"4"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and stationid=2 and duetypeshow='agent' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and stationid=2 and duetypeshow='agent'and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtherCharge -->
+        <test-method status="PASS" signature="OtherCharge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Cases.AddOtherCharge@2ed94a8b]" name="OtherCharge" duration-ms="358" started-at="2020-04-30T14:54:09Z" data-provider="parameterData2" finished-at="2020-04-30T14:54:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{"codeId":"3","dueAgent":"true","amount":"40","alId":"1",
+"stationId":"","startDate":"2020-04-27","endDate":"2020-05-02","unit":"4"}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[11]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and duetypeshow='agent' and startDate='2020-04-27' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[[{"no":"1","sql":"SELECT count(*) from otherchargecontrol
+ where deleted=0 and chargetype=3 and duetypeshow='agent' and startDate='2020-04-27' and endDate='2020-05-02' and unit=4"}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OtherCharge -->
+        <test-method status="PASS" signature="batchWriteBackDatas()[pri:0, instance:Cases.AddOtherCharge@2ed94a8b]" name="batchWriteBackDatas" is-config="true" duration-ms="76" started-at="2020-04-30T14:54:10Z" finished-at="2020-04-30T14:54:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- batchWriteBackDatas -->
+      </class> <!-- Cases.AddOtherCharge -->
+    </test> <!-- AddOtherCharge -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<!--套件-->
+<suite name="Suite">
+    <!--测试集-->
+    <test name="register">
+        <groups>
+            <!--分组测试，只执行TestPractice类中groups=test1的用例-->
+        </groups>
+        <!--测试集集合-->
+        <classes>
+            <!--对应的每个测试类-->
+            <class name="Cases.Login"/>
+			</classes>
+      </test>
+    <test name="AddOtherCharge">
+        <groups>
+            <!--分组测试，只执行TestPractice类中groups=test1的用例-->
+        </groups>
+        <!--测试集集合-->
+        <classes>
+            <!--对应的每个测试类-->
+            <class name="Cases.AddOtherCharge"/>
+        </classes>
+    </test>
+    <!--向方法中传输参数-->
+    <parameter name="browerType" value="firefox"></parameter>
+    <parameter name="driverPath" value="chromedriver"></parameter>
+
+</suite>
