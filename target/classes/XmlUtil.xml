@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Page Keyword="注册页">
-     <UIElemnt keyword="用户名" by="id" value="mobilephone"></UIElemnt>
-	 <UIElemnt keyword="密码" by="id" value="password"></UIElemnt>
-	 <UIElemnt keyword="重复密码" by="id" value="pwdconfirm"></UIElemnt>
-     <UIElemnt keyword="注册按钮" by="id" value="signup-button"></UIElemnt>
-	 <UIElemnt keyword="错误提示" by="id" value="tips"></UIElemnt>
-
-</Page>

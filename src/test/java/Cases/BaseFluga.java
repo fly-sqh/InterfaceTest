@@ -10,7 +10,7 @@ import java.util.Map;
 import java.util.Set;
 
 public class BaseFluga {
-    public static String filePath="D:\\ParameterData\\case.xlsx";
+    public static String filePath="Config/case.xlsx";
     public String[] datas={"Params","ApiId","CaseId","PreValidateSql","AfterValidateSql"};
     public void interfaceTest(String parameter,String ApiId,String CaseId,
                               String PreValidateSql,String AfterValidateSql){

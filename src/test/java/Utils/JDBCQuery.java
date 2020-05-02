@@ -9,7 +9,7 @@ import java.util.*;
 public class JDBCQuery {
     public static Properties properties=new Properties();//创建properties对象
     static {
-        File file=new File("src/Config/jdbc.properties");//传入配置好的文件路径
+        File file=new File("Config/jdbc.properties");//传入配置好的文件路径
         InputStream inputStream= null;
         try {
             inputStream = new FileInputStream(file);
